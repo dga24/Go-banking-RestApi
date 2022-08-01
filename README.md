@@ -1,5 +1,5 @@
 # banking
-RestApi microservice following Udemy course
+RestApi microservice project exercise
 
 Get All Customers
 "/customers"
